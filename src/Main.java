@@ -1,6 +1,6 @@
 
 public class Main {
-    static float tempConv(int t) {
+    static int tempConv(int t) {
         return (t * 9/5) + 32;
     }
 
